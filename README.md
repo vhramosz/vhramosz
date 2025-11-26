@@ -23,12 +23,6 @@
 
 ###
 
-<h2 align="left">GitHub Stats:</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhramosz&layout=compact)](https://github.com/vhramosz/github-readme-stats)
-
-###
-
 <h2 align="left">Contact:</h2>
 
 ###
